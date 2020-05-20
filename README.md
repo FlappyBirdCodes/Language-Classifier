@@ -1,2 +1,2 @@
 # Language-Classifier
-Using machine learning to classify languages
+Using machine learning, sikit-learn and python to classify languages. Graphical user interface made with pygame.
